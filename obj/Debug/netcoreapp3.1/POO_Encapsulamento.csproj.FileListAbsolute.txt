@@ -1,0 +1,4 @@
+C:\Users\winicius\Documents\atividades10\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\atividades10\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\atividades10\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.AssemblyInfo.cs
+C:\Users\winicius\Documents\atividades10\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.csproj.CoreCompileInputs.cache
